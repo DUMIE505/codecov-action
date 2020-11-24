@@ -23,7 +23,7 @@
     "@actions/exec": "^1.0.1",
     "@zeit/ncc": "^0.20.5",
     "fs": "0.0.1-security",
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   },
   "devDependencies": {}
 }
